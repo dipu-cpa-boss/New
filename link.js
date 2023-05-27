@@ -1,1 +1,1 @@
-const offerLink = "https://wabxeq.datlngllfe.net/?utm_source=da57dc555e50572d&s1=193358&s2=1862528&s3=Asex&s5=Ff&j1=1";
+const offerLink = "https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbFI0YmF2Q0lQZVNLZ3pfUWZXTGhuWTZOME9Jd3xBQ3Jtc0trbXR2RFVzRTBYUTVWWTM1RHpaeUZISkc0QlhUb1RHczZNclo4TDNvd1ZzRm8tYXBGczJfaG5LNjBVWjl5c29PbllLVTNkWlJ0bU9iQTU2ODZnTjFPWmtLVnFmcFgzakNUSTBoTmFsWUprQWlIbU5lNA&q=https%3A%2F%2Fwabxeq.datlngllfe.net%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D193358%26s2%3D1862528%26s3%3DAsex%26s5%3DFf%26j1%3D1&html_redirect=1";
